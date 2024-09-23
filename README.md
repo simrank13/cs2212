@@ -78,5 +78,36 @@ Note that I have WorldChain.JAR and facts.csv on the same file.
     • Players lose a life each time an incorrect answer in entered. The game ends when players run out of lives
 
 ## Scoring and Achievements
-    • Accumulate points with each correct
+• Accumulate points with each correct answer. Reach 100 points and get 0 wrong answers to unlock achievements
+     • Players can earn the Bronze achievemnt for completing Easy mode with no wrong answers
+     • Players can earn the Silver achievement for completing Normal mode with no wrong answers
+     • Players can earn the Gold achievemnt for completing Hard mode with no wrong answers
+• Players can view their scores and other users scores on the leaderboard which displays scores from highest to lowest
+
+## Progress
+• This is a page to display your current progress. The bar will fill up as you unlock each level
+
+## Loading Previously played game
+• If you don't have any previously played games, the slots will display "No game saved." You will need to go to start a game to play which will automatically store the game in designated slot
+      • Easy - slot#1
+      • Normal - slot#2
+      • Hard - slot#3
+• The game will automaticalyy save your game play. You can load your game by clicking on the slot and pressing the load button
+• If you finished the game and the game automatically got saved, then if you click on the game, it will start a new game in the same level
+
+## Leaderboard
+• High score tables are divided into three pages: easy, normal, and hard mode leaderboard
+• You can navigate through the tabes using the buttons
+
+## Tutorial
+• Tutorial can be found on the left corner on the main menu page
+
+## Additional Work:
+• Sound Effects
+     • The main menu sound theme
+     • Incorrect sound effects for wrong answers
+     • Correct sound effects for correct answers
+• Three different high-score tables (Easy, Medium, Hard) - not just one table
+• You can exit the play GUI through pressing ESC key
+• You can access debugging mode by clicking on user icon on sign in page as well
 
